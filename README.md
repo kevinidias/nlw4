@@ -11,3 +11,19 @@ Sem dúvidas esse foi um dos melhores projetos que tive o prazer de acompanhar, 
 ## Um pouco do projeto.
 ![P1](https://github.com/kevinidias/nlw4/blob/main/p1.png)
 
+##
+
+![P2](https://github.com/kevinidias/nlw4/blob/main/p2.png)
+
+##
+
+![P3](https://github.com/kevinidias/nlw4/blob/main/p3.png)
+
+##
+
+![P4](https://github.com/kevinidias/nlw4/blob/main/p4.png)
+
+##
+
+![P5](https://github.com/kevinidias/nlw4/blob/main/p5.png)
+
