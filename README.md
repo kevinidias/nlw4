@@ -13,7 +13,7 @@ Sem dúvidas esse foi um dos melhores projetos que tive o prazer de acompanhar, 
 
 ##
 
-![P2]((https://github.com/kevinidias/nlw4/blob/eb0c74e348b4ef1c7326e87e474d126887fc272a/p2.png)
+![P2](https://github.com/kevinidias/nlw4/blob/eb0c74e348b4ef1c7326e87e474d126887fc272a/p2.png)
 
 ##
 
@@ -21,9 +21,9 @@ Sem dúvidas esse foi um dos melhores projetos que tive o prazer de acompanhar, 
 
 ##
 
-![P4]((https://github.com/kevinidias/nlw4/blob/eb0c74e348b4ef1c7326e87e474d126887fc272a/p4.png)
+![P4](https://github.com/kevinidias/nlw4/blob/eb0c74e348b4ef1c7326e87e474d126887fc272a/p4.png)
 
 ##
 
-![P5]((https://github.com/kevinidias/nlw4/blob/eb0c74e348b4ef1c7326e87e474d126887fc272a/p5.png)
+![P5](https://github.com/kevinidias/nlw4/blob/eb0c74e348b4ef1c7326e87e474d126887fc272a/p5.png)
 
